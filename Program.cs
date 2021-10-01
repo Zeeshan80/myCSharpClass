@@ -8,6 +8,7 @@ namespace myCSharpClass
         {
             // Kapitell 3 - Methods  
             Console.WriteLine("Hei test ");
+            Console.WriteLine("Hei test 3 ");
 
 
 
