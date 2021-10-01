@@ -28,20 +28,7 @@ namespace myCSharpClass
                 Console.WriteLine("Det går ikke ann å dele på null, sov du i matte timen..??");
             }
 
-            // kapitel 4
-
-
-            int numOne = 5;
-            int numtwo = 3;
-            int numThree;
-
-            numThree = -numOne;
-            Console.WriteLine("numThree is {0}", numThree);
-            Console.ReadKey();
-
-
-
-
+  
 
         }
     }
