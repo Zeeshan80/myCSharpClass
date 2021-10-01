@@ -6,8 +6,8 @@ namespace myCSharpClass
     {
         static void Main(string[] args)
         {
-          // Kapitell 3 - Methods  
-
+            // Kapitell 3 - Methods  
+            Console.WriteLine("Hei test ");
 
 
 
